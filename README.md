@@ -1,3 +1,36 @@
+
+## Student's Approach
+
+The folder consists of the following files:
+
+### Supporting "R" code (to reduce typing)
+```
+Projec1TestHarness.R   	- The Test Harness used to test the generation of various "Plots"
+Project1Harness.R	- The centralized Harness used by all the plotting functions to download the data (if needed), and to create the subset of the table
+```
+
+### Materials provided by instructor
+```
+README.md		- This file (of course!)
+figure			- The original figures provided by the instructor
+```
+
+### The requested "R" code generating the requested plots
+```
+plot1.R			- The first Plotting file appropriately named according to instructions below.
+plot2.R			- The second Plotting file appropriately named according to instructions below.
+plot3.R			- The third Plotting file appropriately named according to instructions below.
+plot4.R			- The fourth Plotting file appropriately named according to instructions below.
+```
+
+### The output (uploaded as reference)
+```
+plot1.png
+plot2.png
+plot3.png		
+plot4.png
+```
+
 ## Introduction
 
 ## Instructions
@@ -113,35 +146,3 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
-
-## Ashwin's Approach
-
-The folder consists of the following files:
-
-### Supporting "R" code (to reduce typing)
-```
-Projec1TestHarness.R   	- The Test Harness used to test the generation of various "Plots"
-Project1Harness.R	- The centralized Harness used by all the plotting functions to download the data (if needed), and to create the subset of the table
-```
-
-### Materials provided by instructor
-```
-README.md		- This file (of course!)
-figure			- The original figures provided by the instructor
-```
-
-### The requested "R" code generating the requested plots
-```
-plot1.R			- The first Plotting file appropriately named according to instructions above.
-plot2.R			- The second Plotting file appropriately named according to instructions above.
-plot3.R			- The third Plotting file appropriately named according to instructions above.
-plot4.R			- The fourth Plotting file appropriately named according to instructions above.
-```
-
-### The output (uploaded as reference)
-```
-plot1.png
-plot2.png
-plot3.png		
-plot4.png
-```
