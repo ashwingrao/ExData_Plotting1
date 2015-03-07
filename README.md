@@ -26,10 +26,21 @@ plot4.R			- The fourth Plotting file appropriately named according to instructio
 ### The output 
 ```
 plot1.png
+```
+![plot of plot1](plot1.png) 
+```
 plot2.png
+```
+![plot of plot2](plot2.png) 
+```
 plot3.png		
+```
+![plot of plot3](plot3.png) 
+```
 plot4.png
 ```
+![plot of plot4](plot4.png) 
+
 ___
 
 ## Introduction
