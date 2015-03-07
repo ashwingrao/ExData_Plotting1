@@ -23,7 +23,7 @@ plot3.R			- The third Plotting file appropriately named according to instruction
 plot4.R			- The fourth Plotting file appropriately named according to instructions below.
 ```
 
-### The output (uploaded as reference)
+### The output 
 ```
 plot1.png
 plot2.png
